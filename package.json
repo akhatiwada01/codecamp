@@ -1,6 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": "AdityaKhatiwada",
+	"author": "Aditya Khatiwada",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
